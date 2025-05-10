@@ -1,2 +1,3 @@
 # github tutorial
-this is mt second time using git and github so i may make mistakes
+This is my second time using git and github so I may make mistakes
+hwllo
